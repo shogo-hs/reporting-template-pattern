@@ -1,0 +1,1 @@
+# reporting-template-pattern
