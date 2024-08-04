@@ -1,0 +1,2 @@
+TARGET_YEAR: int = 2024
+TARGET_MONTH: int = 7

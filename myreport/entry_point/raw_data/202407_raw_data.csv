@@ -1,0 +1,11 @@
+id,age,income,gender,job
+id_0000,25,50000,male,engineer
+id_0001,30,60000,male,doctor
+id_0002,22,55000,male,
+id_0003,45,80000,male,teacher
+id_0004,60,75000,male,lawyer
+id_0005,35,70000,female,artist
+id_0006,50,90000,male,engineer
+id_0007,28,65000,female,nurse
+id_0008,40,72000,male,scientist
+id_0009,55,85000,other,manager
